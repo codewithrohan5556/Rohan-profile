@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithrohan5556&label=Profile%20views&color=0e75b6&style=flat" alt="codewithrohan5556" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithrohan5556" alt="codewithrohan5556" /></a> </p>
+
 - 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Deep Learning, Pytorch, System Design, Large Language Models**
