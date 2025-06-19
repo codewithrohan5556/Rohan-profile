@@ -1,6 +1,5 @@
 # Hi, I'm Rohan Patil 👋
-Machine Learning Enthusiast 🧑‍💻 | AI 🤖 | Deep Learning | NLP | LLMs
-🎓 Final Year Undergrad @AISSMS IOIT 🎓    
+Machine Learning Enthusiast 🧑‍💻 | AI 🤖 | Deep Learning | NLP | LLMs   
 🔭 Currently working on: ML projects, Dashboards, Forecasting  
 🌱 Learning: Generative AI, NLP, Deep Learning  
 💬 Ask me about: Machine Learning, Python, Data Visualization  
