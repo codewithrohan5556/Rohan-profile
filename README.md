@@ -1,11 +1,11 @@
 # Hi, I'm Rohan Patil 👋
-
-🎓 B.Tech in Electrical Engineering | Minor in AI & Data Science  
+Machine Learning Enthusiast 🧑‍💻 | AI 🤖 | Deep Learning | NLP | LLMs
+🎓 Final Year Undergrad @AISSMS IOIT 🎓    
 🔭 Currently working on: ML projects, Dashboards, Forecasting  
 🌱 Learning: Generative AI, NLP, Deep Learning  
 💬 Ask me about: Machine Learning, Python, Data Visualization  
 📫 How to reach me: rohan.ai.5556@gmail.com  
-⚡ Fun fact: I once visualized 5000+ rows of sales data for grocery stores!
+⚡ Fun fact: I once visualized 5000+ rows of sales data for grocery stores!  
 
 ---
 
