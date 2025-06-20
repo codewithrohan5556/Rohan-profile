@@ -16,8 +16,9 @@
 - 💬 Ask me about **Machine Learning, NLP, Data Structures and Algorithms**
 
 - 📫 How to reach me **rohan.ai.5556@gmail.com**
+  
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1OwSuNGGBvD67y5bvL-MMw6Vnz_kwSxhq/view?usp=drive_link)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OwSuNGGBvD67y5bvL-MMw6Vnz_kwSxhq/view?usp=sharing](https://drive.google.com/file/d/1OwSuNGGBvD67y5bvL-MMw6Vnz_kwSxhq/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
