@@ -19,6 +19,7 @@
   
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1OwSuNGGBvD67y5bvL-MMw6Vnz_kwSxhq/view?usp=drive_link)
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
