@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rohan</h1>
+<h1 align="center">Hi, I'm Rohan 👨🏽‍💻</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Pune, Maharashtra, India</h3>
 
 - 🔭 I’m currently working on **Machine Learning**
