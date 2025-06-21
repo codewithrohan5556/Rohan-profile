@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/codewithrohan)
 
-- 📝 I regularly write articles on [Medium Link](Medium Link)
-
 - 💬 Ask me about **Machine Learning, NLP, Data Structures and Algorithms**
 
 - 📫 How to reach me **rohan.ai.5556@gmail.com**
