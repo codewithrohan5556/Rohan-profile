@@ -73,7 +73,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
   </a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_Logo.svg" alt="google colab" width="40" height="40"/>
+  <img src="https://icons8.com/icon/lOqoeP2Zy02f/google-colab" alt="google colab" width="40" height="40"/>
 </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" alt="google cloud" width="40" height="40"/>
