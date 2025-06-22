@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohan 👨🏽‍💻</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Pune, Maharashtra, India</h3>
 
-![Profile Picture](profile.png)
+![Profile Picture](https://github.com/codewithrohan5556/Rohan-profile/blob/main/img.jpg)
 
 - 🔭 I’m currently working on **Machine Learning**
 
