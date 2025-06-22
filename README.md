@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Rohan 👨🏽‍💻</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Pune, Maharashtra, India</h3>
+<p align="center">
+<img width="720" src="src/imgs/MLI-Book-Cover.png">
+</p>
 
 - 🔭 I’m currently working on **Machine Learning**
 
