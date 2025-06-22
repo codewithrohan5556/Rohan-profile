@@ -17,9 +17,6 @@
   
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1OwSuNGGBvD67y5bvL-MMw6Vnz_kwSxhq/view?usp=drive_link)
 
-[![Video Preview](https://yourdomain.com/path-to-thumbnail.jpg)](https://videocdn.cdnpk.net/videos/021a4cf8-387b-4086-8505-bf9b365292cf/horizontal/previews/clear/small.mp4?token=...)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ai_with_rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ai_with_rohan" height="30" width="40" /></a>
