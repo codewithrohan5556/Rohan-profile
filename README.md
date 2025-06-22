@@ -16,8 +16,8 @@
 - 📫 How to reach me **rohan.ai.5556@gmail.com**
   
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1OwSuNGGBvD67y5bvL-MMw6Vnz_kwSxhq/view?usp=drive_link)
+[🔗 Watch the video](https://videocdn.cdnpk.net/videos/021a4cf8-387b-4086-8505-bf9b365292cf/horizontal/previews/clear/small.mp4?token=exp=1750584625~hmac=4db6a9c2503baf47c0a9ce9d3edbea9a9141388162310f07c87c900dee103f3e)
 
-[![Watch the video](https://videocdn.cdnpk.net/videos/021a4cf8-387b-4086-8505-bf9b365292cf/horizontal/previews/clear/small.mp4?token=exp=1750584625~hmac=4db6a9c2503baf47c0a9ce9d3edbea9a9141388162310f07c87c900dee103f3e)](https://videocdn.cdnpk.net/videos/021a4cf8-387b-4086-8505-bf9b365292cf/horizontal/previews/clear/small.mp4?token=exp=1750584625~hmac=4db6a9c2503baf47c0a9ce9d3edbea9a9141388162310f07c87c900dee103f3e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
