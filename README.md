@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohan 👨🏽‍💻</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Pune, Maharashtra, India</h3>
 
-![My Project Banner](https://www.freepik.com/free-vector/artificial-intelligence-concept-twitch-banner_42089906.htm#fromView=image_search&page=1&position=0&uuid=141a7569-bd52-4bfb-a8c1-e50d8d181e9a&query=ai+engineer+coding)
+![Profile Picture](profile.png)
 
 - 🔭 I’m currently working on **Machine Learning**
 
