@@ -17,7 +17,7 @@
   
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1OwSuNGGBvD67y5bvL-MMw6Vnz_kwSxhq/view?usp=drive_link)
 
-<img align="right" alt="VIDEO" src="https://www.freepik.com/free-video/young-man-hacker-commiting-cybercrime-while-hacking-two-computers-dark-programming-room-with-technologies-1_168685#fromView=search&page=2&position=13&uuid=22aa74c5-1540-4a7d-a33a-e34623cc8a95" width="1080px"/>
+[![Watch the video](https://videocdn.cdnpk.net/videos/021a4cf8-387b-4086-8505-bf9b365292cf/horizontal/previews/clear/small.mp4?token=exp=1750584625~hmac=4db6a9c2503baf47c0a9ce9d3edbea9a9141388162310f07c87c900dee103f3e)](https://videocdn.cdnpk.net/videos/021a4cf8-387b-4086-8505-bf9b365292cf/horizontal/previews/clear/small.mp4?token=exp=1750584625~hmac=4db6a9c2503baf47c0a9ce9d3edbea9a9141388162310f07c87c900dee103f3e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
