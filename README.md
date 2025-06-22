@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence, Machine Learning and Deep Learning**
 
-- 🤝 I’m looking for help with **Artificial Intelligence, Machine Learning and Deep Learning**
+- 🤝 I’m looking for help with **Artificial Intelligence and Machine Learning related projects**
 
 - 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/codewithrohan) ,[Github](https://github.com/codewithrohan5556/Rohan-profile/tree/main)
 
