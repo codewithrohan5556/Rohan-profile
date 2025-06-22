@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rohan.ai.5556@gmail.com**
   
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1OwSuNGGBvD67y5bvL-MMw6Vnz_kwSxhq/view?usp=drive_link)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1AeLL35HdWprGbtHw-FaGdK67_K10wv6Z/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
