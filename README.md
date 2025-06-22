@@ -1,72 +1,146 @@
-<h1 align="center">Hi, I'm Rohan 👨🏽‍💻</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Pune, Maharashtra, India</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rohan Patil | Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Roboto Mono', monospace;
+      background: #f4f4f4;
+      margin: 0;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      padding: 2rem;
+      background: #222;
+      color: #fff;
+    }
+    header img {
+      width: 150px;
+      border-radius: 50%;
+      margin-top: 1rem;
+    }
+    .container {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 2rem;
+    }
+    h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 0.5rem;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    ul li {
+      margin: 0.5rem 0;
+    }
+    .socials a {
+      margin-right: 1rem;
+    }
+    .section img {
+      margin-right: 10px;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
 
-![Profile Picture](https://github.com/codewithrohan5556/Rohan-profile/blob/main/img.jpg)
+<header>
+  <h1>Rohan Patil</h1>
+  <p>AI & ML Enthusiast | Data Science | Electrical Engineering</p>
+  <img src="abc.jpg" alt="Rohan's Photo" />
+  <div class="socials">
+    <a href="https://github.com/codewithrohan5556">GitHub</a>
+    <a href="https://linkedin.com/in/rohan-patil-ai">LinkedIn</a>
+    <a href="https://kaggle.com/codewithrohan">Kaggle</a>
+    <a href="Rohan_Resume.pdf">Resume</a>
+  </div>
+</header>
 
-- 🔭 I’m currently working on **Machine Learning**
+<div class="container">
 
-- 🌱 I’m currently learning **Deep Learning, Pytorch, System Design, Large Language Models**
+  <div class="section">
+    <h2>🎓 Education</h2>
+    <p><strong>AISSMS IOIT, Pune</strong><br>
+    B.Tech in Electrical Engineering (AI & DS Minor), CGPA: 7.42</p>
+  </div>
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence, Machine Learning and Deep Learning**
+  <div class="section">
+    <h2>💡 Skills</h2>
+    <p><strong>Languages:</strong> Python, C, C++<br>
+    <strong>Libraries:</strong> NumPy, Pandas, Scikit-learn, XGBoost, Seaborn, Plotly<br>
+    <strong>Tools:</strong> Power BI, AWS, Linux</p>
+  </div>
 
-- 🤝 I’m looking for help with **Artificial Intelligence and Machine Learning related projects**
+  <div class="section">
+    <h2>💼 Experience</h2>
+    <p><strong>AI/ML Intern @ AiAdventures</strong> (Feb–Apr 2025)<br>
+    Built ML models, improved performance by 20%, created dashboards and implemented EDA workflows.</p>
+  </div>
 
-- 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/codewithrohan) ,[Github](https://github.com/codewithrohan5556/Rohan-profile/tree/main)
+  <div class="section">
+    <h2>📂 Projects</h2>
+    <ul>
+      <li><strong>Sales Forecasting</strong> – <a href="https://github.com/codewithrohan5556/Sales-Forecasting-with-Regression-Predictive-Modeling-Insights-from-Superstore-Data">GitHub →</a></li>
+      <li><strong>Bank Loan Approval</strong> – <a href="https://github.com/codewithrohan5556/Classification-Project-Bank-Loan-Approval">GitHub →</a></li>
+      <li><strong>Zomato Data Analysis</strong> – <a href="https://github.com/codewithrohan5556/Project-Zomato-Data-Analysis">GitHub →</a></li>
+      <li><strong>Grocery Sales Analysis</strong> – <a href="https://github.com/codewithrohan5556/Grocery-Store-Sales-Data-Analysis">GitHub →</a></li>
+    </ul>
+  </div>
 
-- 💬 Ask me about **Machine Learning, NLP, Data Structures and Algorithms**
+  <div class="section">
+    <h2>🧠 About Me</h2>
+    <ul>
+      <li>🔭 I’m currently working on <strong>Machine Learning</strong></li>
+      <li>🌱 I’m currently learning <strong>Deep Learning, Pytorch, System Design, LLMs</strong></li>
+      <li>👯 I’m looking to collaborate on <strong>AI, ML and DL Projects</strong></li>
+      <li>🤝 I’m looking for help with <strong>AI and ML related projects</strong></li>
+      <li>👨‍💻 All of my projects: <a href="https://www.kaggle.com/codewithrohan">Kaggle</a>, <a href="https://github.com/codewithrohan5556/Rohan-profile/tree/main">GitHub</a></li>
+      <li>💬 Ask me about <strong>Machine Learning, NLP, DSA</strong></li>
+      <li>📫 Reach me at <strong>rohan.ai.5556@gmail.com</strong></li>
+      <li>📝 View my <a href="https://drive.google.com/file/d/1AeLL35HdWprGbtHw-FaGdK67_K10wv6Z/view?usp=drivesdk">Resume</a></li>
+    </ul>
+  </div>
 
-- 📫 How to reach me **rohan.ai.5556@gmail.com**
-  
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1AeLL35HdWprGbtHw-FaGdK67_K10wv6Z/view?usp=drivesdk)
+  <div class="section">
+    <h2>🔗 Connect with me</h2>
+    <p>
+      <a href="https://twitter.com/ai_with_rohan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" /></a>
+      <a href="https://www.linkedin.com/in/rohan-patil-ai" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
+      <a href="https://instagram.com/ai.with.rohan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" /></a>
+    </p>
+  </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ai_with_rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ai_with_rohan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rohan-patil-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohan-patil-ai" height="30" width="40" /></a>
-<a href="https://instagram.com/ai.with.rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ai.with.rohan" height="30" width="40" /></a>
+  <div class="section">
+    <h2>🛠️ Languages and Tools</h2>
+    <p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
+    </p>
+  </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
-  </a>
-</p>
+</div>
+
+</body>
+</html>
